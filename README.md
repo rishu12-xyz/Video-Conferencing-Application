@@ -142,14 +142,14 @@ Please ensure your code adheres to existing style and includes relevant tests.
 
 ##  License
 
-MIT License © [Your Name]
+MIT License © [RISHIKESH PANDIT]
 
 ---
 
 ##  Contact
 
 - **Internship**: MERN Stack Developer Internship at Codec Technologies — [https://codectechnologies.in](https://codectechnologies.in)  
-- **Author**: [Your Name](mailto:your.email@example.com)
+- **Author**: [Rishikesh Pandit](mailto:rtechist@gmail.com)
 
 ---
 
